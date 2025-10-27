@@ -4,8 +4,7 @@
 The **Library Management System (LMS)** is a console-based C++ application designed to simplify and automate library operations.  
 It enables librarians to efficiently manage books — including adding, editing, deleting, viewing, and issuing — while allowing students to search, borrow, and return books through an easy-to-use interface.
 
-Developed as part of the **TCP1121 – Computer Programming** course.
-
+This project was developed as part of the **Computer Programming (TCP1121)** course.
 ---
 
 ## 👥 Collaborators
